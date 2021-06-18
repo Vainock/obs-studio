@@ -6,6 +6,7 @@ jobs:
     runs-on: "ubuntu-latest"
     env:
       CROWDIN_PERSONAL_TOKEN: "${{ secrets.CROWDIN_PERSONAL_TOKEN }}"
+      SKIP_BUILD_CREATION: "true"
     steps:
       - name: "Checkout Repository"
         uses: "actions/checkout@v2"
