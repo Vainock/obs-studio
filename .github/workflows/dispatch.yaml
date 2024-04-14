@@ -55,6 +55,8 @@ jobs:
     name: Update Language Files 🌐
     if: inputs.job == 'translations'
     runs-on: ubuntu-22.04
+    env: 
+      CROWDIN_PAT: ${{ secrets.CROWDIN_SYNC_CROWDIN_PAT }}
     permissions:
       contents: write
       pull-requests: write
