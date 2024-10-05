@@ -58,7 +58,7 @@ jobs:
 
   update-language-files:
     name: Update Language Files 🌐
-    if: github.repository_owner == 'obsproject' && inputs.job == 'translations'
+    if: inputs.job == 'translations'
     runs-on: ubuntu-24.04
     permissions:
       pull-requests: write
