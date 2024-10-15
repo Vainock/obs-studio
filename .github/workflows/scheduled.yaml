@@ -107,7 +107,7 @@ jobs:
 
   update-crowdin-locales:
     name: Update Locales on Crowdin 🇺🇸
-    if: github.repository_owner == 'obsproject' && github.ref_name == 'master'
+    if: github.repository_owner == 'Vainock' && github.ref_name == 'master'
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
