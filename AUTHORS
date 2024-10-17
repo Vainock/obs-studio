@@ -2,7 +2,7 @@ Original Author: Lain Bailey
 
 Contributors are sorted by their amount of commits / translated words.
 
-Contributors:
+Git Contributors:
  Lain
  jpark37
  PatTheMav
@@ -16,14 +16,14 @@ Contributors:
  WizardCM
  Norihiro Kamae
  fryshorts
- DDRBoxman
  Georges Basile Stavracas Neto
+ DDRBoxman
  Kurt Kartaltepe
  Rodney
  pkv
  Gol-D-Ace
- tt2468
  BtbN
+ tt2468
  Shaolin
  Exeldro
  kc5nra
@@ -32,61 +32,59 @@ Contributors:
  VodBox
  Ruwen Hahn
  Zachary Lund
+ Vainock
  SuslikV
  Paul Hindt
- Vainock
  CodeYan01
  Reboot
  Martell Malone
  Ford Smith
- Penwywern
  columbarius
  Ed Maste
+ Penwywern
  dodgepong
- 田七不甜
  HomeWorld
- Joel Bethke
  Alex Anderson
- SCG82
- jcm
+ Joel Bethke
  brittneysclark
+ shiina424
  Dmitry-Me
  Tommy Vercetti
- shiina424
+ 田七不甜
+ SCG82
+ jcm
  Roman Huts
- Service Checker
- Florian Zwoch
  Gale
  Yuriy Chumak
  juvester
  mvji
  wangshaohui
- JohannMG
  craftwar
  sorayuki
  Dead133
  Eric Lindvall
+ Florian Zwoch
  Jimi Huotari
+ JohannMG
  Maya Venkatraman
  Radzaquiel
  Scratch
  Socapex
- mntone
- tududweb
  Alex Luccisano
  Cephas Reis
  Fabian Mastenbroek
  Hector Martin
- Igor Bochkariov
  Luke Yelavich
  Sean DuBois
  bin
+ mntone
+ tududweb
  Chris
  Developer-Ecosystem-Engineering
+ Igor Bochkariov
  Stéphane Lepin
  Chip Bradford
  Ilya Melamed
- John Bradley
  Marvin Scholz
  Rat
  Skyler Lipthay
@@ -95,36 +93,34 @@ Contributors:
  David Rosca
  GoaLitiuM
  Hunter L. Allen
- Jan Beich
+ John Bradley
  Ka Ho Ng
  Manuel Kroeber
  Michel
  Quinn Damerell
- Theodore Dubois
  Anthony Torres
  Anton Bershanskiy
- Barnabás Pőcze
  Bennik2000
- Chris (Flaeri)
  Chris Angelico
  Danni
  Doug Kelly
  James Hurley
+ Jan Beich
  Jess Mayo
  Kris Moore
  Mike
  Palakis
+ Theodore Dubois
  Tristan Matthews
  Alexandre Vicenzi
  Carl Fürstenberg
- Jonathan Bennett
+ Chris (Flaeri)
  Kilian von Pflugk
  Neal Gompa
  SoftArch
  Timo Gurr
  Tjienta Vara
  Wahaj Dar
- prgmitchell
  Aaron Boxer
  Aleks Todorov
  Anry
@@ -133,24 +129,20 @@ Contributors:
  Cody Jung
  David Bieber
  Hosein
- Huts, Roman
  Ioan Loosley
  Ján Mlynek
  MaZderMind
  OldBaldGeek
- Stefan Hoffmeister
  Stephen Seo
- WarmUpTill
  Zhao Zhili
  bl
  makise-homura
  nleseul
  nquah
- obiwac
- rhutsAMD
  univrsal
  Alexander Popov
  Artem Polishchuk
+ Barnabás Pőcze
  Benjamin Klettbach
  Bird, Christopher
  Bl00drav3n
@@ -161,7 +153,6 @@ Contributors:
  Daniel Lopez
  David Cooper
  Dennis Sädtler
- Dossy Shiobara
  Friedhelm Birth
  Grant Likely
  Hernán
@@ -169,34 +160,36 @@ Contributors:
  Jiaxun Yang
  John Bowers
  John R. Bradley
+ Jonathan Bennett
  Joseph El-Khouri
  Kasin Sparks
  Lin
  Matthew Glazar
  Matthew Orlando
- Mattias Landin
  Michael R. Crusoe
- Monsteer
  Peter Geis
  Philip Haynes
  Robin Hielscher
  Roman Sivriver
  Serge Paquet
+ Stefan Hoffmeister
  Tatsuyuki Ishi
  Torge Matthies
  Valentin
+ WarmUpTill
  Yoshimasa Niwa
  karenkim-AfreecaTV
- kevin.dww
  paibox
  pkubaj
+ prgmitchell
+ rhutsAMD
  shousa
+ test
  tlivegaming
  vokama
  Adrián Pardini
  Aidan Delaney
  Albert
- Aleix Pol
  Alex Miller
  Alexander Schittler
  Andreas Reischuck
@@ -212,6 +205,7 @@ Contributors:
  Brian S. Stephan
  Christine Lin
  Christopher P Yarger
+ Dossy Shiobara
  Douglas Rhine
  DungFu
  Eric Bataille
@@ -223,19 +217,16 @@ Contributors:
  Grzegorz Godlewski
  Hans Petter Selasky
  Henrik "Henke37" Andersson
- Ilya Chernikov
+ Huts, Roman
  Jeremy Woertink
  JoHn BoWeRs
  John Boiles
  Joshua Rowe
- Julian Orth
  Justin Bull
  Justin Love
  Jérémy Farnaud
- Kevin Degeling
  Kristian Ollikainen
  Len
- Lev Leontev
  Lexsus
  Lionheart Zhang
  Lordmau5
@@ -246,20 +237,19 @@ Contributors:
  Matt Morrissette
  Matthew
  Matthew McNamara
+ Mattias Landin
  MedicMomcilo
  Michael Goulet
+ Monsteer
  Nirusu
  Olle Kelderman
  Paul Gregoire
  Piotr Esden-Tempski
  Sergo
- Seth Williams
  Skid-Inc
- Sludge
  Staacks
  Stéphane Cottin
  Suman Manjunath
- TDV Alinsa
  Take Vos
  Taylor Blau
  Thomas Schnitzler
@@ -269,7 +259,6 @@ Contributors:
  Warren Turkal
  Willy Liu(HQ ENG)
  WuLongyue
- Zulleyy3 Zulleyy3
  adray
  aggresss
  akapar
@@ -281,20 +270,19 @@ Contributors:
  cristisilaghi
  dgeibi
  e00E
- eightball567
  hgonomeg
  invalidtask
  jpk
  jw0z96
+ kevin.dww
  liu.haibin
  moocowsheep
  notmark
- shinji3
+ obiwac
  skwerlman
  stopforumspam
  stump
  taesheren
- test
  tuduweb
  wolf247
  yogpstop
@@ -309,6 +297,7 @@ Contributors:
  Akagi201
  Akihiko Koizuka
  Alcaros
+ Aleix Pol
  Alex Kosenko
  Alexander Kozhevin
  Alexander Uhlmann
@@ -426,6 +415,7 @@ Contributors:
  Hong Hak-Gyu
  Iblis Lin
  Ihor Kalnytskyi
+ Ilya Chernikov
  Ivan Efremov
  J Lynn
  J.D. Purcell
@@ -447,6 +437,7 @@ Contributors:
  Joshua Ashton
  Joshua Berenhaus
  Julian Miller
+ Julian Orth
  Juliane Holzt
  Juliusz Chroboczek
  Justin B. Watson
@@ -457,6 +448,7 @@ Contributors:
  Kazuki Oishi
  Kazuki Yamaguchi
  Keith Packard
+ Kevin Degeling
  Kevin Deng
  Kevin Ross
  Kevin Tardif
@@ -465,6 +457,7 @@ Contributors:
  Kraz3D
  Lasse Dalegaard
  Laurin Müller
+ Lev Leontev
  LiamCoal
  LightcastMediaCloud
  Linnun
@@ -505,6 +498,7 @@ Contributors:
  Nicolas Fella
  Night
  Nikola Jovic
+ OBS Translators
  Oliver Lietz
  Olivier Humbert
  OvchinnikovDmitrii
@@ -541,12 +535,14 @@ Contributors:
  Sergio Garcia Murillo
  Sergo Pogosyan
  Seth Murphy
+ Seth Williams
  Seung-Woo Kim
  Shamun
  Sherwin Dapito
  Shlee
  Simon
  Simon Rost
+ Sludge
  Smartkin
  Sophie Hamilton
  Stanislav Izotov
@@ -554,6 +550,7 @@ Contributors:
  Steve Wills
  Stripchat
  Susko3
+ TDV Alinsa
  Teemu Kauhanen
  Terje Gundersen
  Thomas Crider
@@ -583,6 +580,7 @@ Contributors:
  Yves Dionne
  Yvo
  Ziemas
+ Zulleyy3 Zulleyy3
  a1346054
  adocilesloth
  antho
@@ -601,6 +599,7 @@ Contributors:
  dennis
  dwot
  eastkiki
+ eightball567
  evandroduarte
  fefine
  fengyifan
@@ -657,6 +656,7 @@ Contributors:
  rvalue
  sam8641
  sergey
+ shinji3
  skeletonbow
  skyboy
  sora-blue
@@ -690,7 +690,7 @@ Contributors:
  наб
  张昆
  练亮斌
- 
+
 Translators:
  Afrikaans:
   Gideon Wentink (gjwentink)
@@ -1038,8 +1038,8 @@ Translators:
   Vainock
   兔頭 (yeahdamn)
   VainockManager
-  craftwar
   SeasonChannel3322 (SeasonChannel32)
+  craftwar
   Thomas (thomassth)
   Jcys
   菘菘 (SiongSng)
@@ -1299,8 +1299,8 @@ Translators:
  Finnish:
   Arkkis (j)
   Kimmo Kujansuu (mrkujansuu)
-  supersingularisogeny
   Jiri Grönroos (spammemoreplease)
+  supersingularisogeny
   Ricky Tigg (ricky.tigg)
   dodgepong
   Tero Keso (tero.keso)
@@ -1405,6 +1405,7 @@ Translators:
   xav blacyre (xav35000)
   Alex Smotra (smotraalex75)
   HugOmega
+  Antoine Gros (gros_)
   Alexis Brandner (Alexinfos)
   Romain Gille (romgille)
   Camille Nury (kamsdu30)
@@ -1490,6 +1491,7 @@ Translators:
   Splinter Cel (4eloweck)
   Max Schulz (maxsschulz)
   The_Legend_of_xD
+  BENNY (Elfaustus)
   DonutCrab
   AbsolutLeon
   Luchx
@@ -1817,6 +1819,7 @@ Translators:
   _XD
   켈빈926 (hsjang2000)
   Kim (Fomalhaut0098)
+  Jiwon Jung (Connor04)
   Jong Kwon Choi (dailypro)
   Ra.Workspace (RaWouk)
   ilsubyeega
@@ -1982,6 +1985,7 @@ Translators:
   ROkelbow
   Gol D. Ace (goldace)
   PRNUse
+  KinxShar (yasharaminasghari6)
   alefvanoon
   TqkeL
   Hosein Hallavi (habibot81)
@@ -2033,6 +2037,7 @@ Translators:
   OldShaterhan (tomek12-96)
   dodgepong
   Julia Drewniak (ewagsi)
+  Marta Kaczor (kaczorkaa96)
   partypiotr
   Maciej Ślusarz (tendan)
   Michał Lewczak (michal200507)
@@ -2194,6 +2199,7 @@ Translators:
   Melonoone
   LupusMechanicus
   Andrii Popovych (Andrii-Popovich)
+  MUHAMMED (czbsjwj)
   Diamyx
   unknowndomain
   alex123 alex123 (dumitruvalentin44)
@@ -2212,6 +2218,7 @@ Translators:
   MishaRey (mishaareyy)
   Әлмәт Ак Арыслан (19082004amir)
   Kolya Майнкрафт (KolyaYT_)
+  Сергей (nasferatus)
   Maxim Gribanov (MaximGribanov)
   dodgepong
   Vainock
@@ -2227,6 +2234,7 @@ Translators:
   Synbulat Biishev (Syjalo)
   fromgate
   Пахомов Александр (GXTrus)
+  Andrey (sandrix)
   kirbyhi5
   TDoT
   Антон Илясов (Vewa9907)
@@ -2242,7 +2250,6 @@ Translators:
   bxkr
   Utoog (rivus)
   Serge Sklyarov (sergesklyarov)
-  Андрей Курдюков (sandrix)
   Anton Bershanskiy (bershanskiy)
   Makatavin # (makatavin0)
   HSD Channel (kvdbve34)
@@ -2582,8 +2589,8 @@ Translators:
   vgezer
   Ufuk Furkan Öztürk (UfukFurkanOzturk)
   Emir (dirt3009)
-  Cemal Dursun (cmldrs)
   Nejdet ACAR (nejdetacar)
+  Cemal Dursun (cmldrs)
   Kayhan (SwitchAlpha)
   Savas Tokmak (Laserist)
   Burkicannjr
@@ -2648,8 +2655,8 @@ Translators:
   Khedi
   Niemand (lelledguy)
   cannnAvar
-  ROkelbow
   Minot
+  ROkelbow
   Veysel Okan (viseyn)
   Hydroboost
   unknowndomain
