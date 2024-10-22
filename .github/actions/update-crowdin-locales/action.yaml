@@ -30,4 +30,5 @@ runs:
         source .venv/bin/activate
         python3 .github/scripts/utils.py/update-crowdin-locales.py \
           ${{ inputs.crowdinSecret }} \
-          ${{ inputs.changedFiles }}
+          ${{ inputs.changedFiles }} \
+          --project_id 538322
